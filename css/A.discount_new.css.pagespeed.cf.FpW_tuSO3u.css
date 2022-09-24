@@ -1,0 +1,184 @@
+body{margin:0;padding:0}.inner_popupsale__Discount2{background-color:rgba(0,0,0,.7);display:none;width:100%;height:100%;z-index:333;position:fixed;cursor:pointer}.wait__Discount{background: url(https://g.biotrin.ru/fonts/popup-wait.svg) no-repeat center center/cover}.fadePopup{z-index:1001;-webkit-box-sizing:border-box;box-sizing:border-box;padding:0;margin:0;position:fixed;overflow:auto;left:0;top:0;width:100%;height:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-family:'Montserrat',sans-serif}.popupsale__Discount *{padding:0;margin:0;-webkit-box-sizing:border-box;box-sizing:border-box}#popupsale__Discount2{z-index:334}.popupsale__Discount .popupsale__window__Discount{position:relative;width:770px;background:linear-gradient(135deg,transparent 10px,#fff 0) top left , linear-gradient(225deg,transparent 10px,#fff 0) top right , linear-gradient(315deg,transparent 10px,#fff 0) bottom right , linear-gradient(45deg,transparent 10px,#fff 0) bottom left;background-image:radial-gradient(circle at 0 0,rgba(204,0,0,0) 0,#fff 0) , radial-gradient(circle at 100% 0,rgba(204,0,0,0) 20px,#fff 21px) , radial-gradient(circle at 100% 100%,rgba(204,0,0,0) 0,#fff 0) , radial-gradient(circle at 0 100%,rgba(204,0,0,0) 0,#fff 0);background-size:51% 51%;background-repeat:no-repeat;border-radius:20px}.popupsale__Discount .popupsale__content__Discount{display:-webkit-box;display:-ms-flexbox;display:flex;padding:0;border-top-left-radius:20px;border-bottom-left-radius:20px;border-bottom-right-radius:20px;color:#121212;position:relative;overflow:hidden}.popupsale__Discount .popupsale__content__Discount:before{content:'';position:absolute;left:-13px;top:-9px;width:400px;height:100%;border-radius:20px;-webkit-transform:rotate(3deg);transform:rotate(3deg);-webkit-box-shadow:20px 0 20px 0 rgba(0,0,0,.34);box-shadow:20px 0 20px 0 rgba(0,0,0,.34)}.popupsale__Discount .popupsale__content__left__Discount{position:relative;width:400px;min-height:100%;background:#efefef url(https://g.biotrin.ru/img/bg-popup.jpg) no-repeat bottom left;border-radius:20px;text-align:center;font-family:Montserrat;font-size:16px;font-weight:400;line-height:28px;padding:40px 40px 0;-ms-flex-negative:0;flex-shrink:0}.popupsale__Discount .popupsale__content__left__Discount:after{content:'';position:absolute;bottom:270px;right:-49px;width:205px;height:75px;background:url(https://g.biotrin.ru/img/popup-arrow.png)}.popupsale__Discount .popupsale__content__right__Discount{width:100%;text-align:center;padding:60px 40px 37px 60px}.popupsale__Discount .popupsale__warning__Discount{background-color:#ffd513;padding:3px 10px}.popupsale__Discount .popupsale__form__Discount{margin-top:20px;margin-bottom:37px;float:unset;width:300px;border:none}.popupsale__Discount form .popupsale__input__Discount{width:100%;border-radius:4px;border:1px solid #ccc;background-color:#fff;margin-bottom:4px;padding:19px 1em;height:auto;font-size:16px}.popupsale__Discount form .popupsale__input__Discount:last-of-type{margin-bottom:25px}.popupsale__Discount form .popupsale__btn__Discount{display:block;position:relative;width:100%;line-height:1;padding:26px 10px;border-radius:36px;border:none;background-color:#ff004f;color:#fff;font-size:22px;font-weight:700;cursor:pointer;-webkit-transition:.3s all ease-in-out;transition:.3s all ease-in-out}.popupsale__Discount .popupsale__btn__Discount:after{position:absolute;top:-14px;right:23px;width:38px;height:38px;background:url(https://g.biotrin.ru/img/sale.png) no-repeat}.popupsale__Discount .popupsale__btn__Discount:hover{background-color:#ff4781}.popupsale__Discount .popupsale__close__Discount{position:absolute;cursor:pointer;width:41px;height:41px;background: url(https://g.biotrin.ru/fonts/popup-close.svg) no-repeat center center/cover;right:-25px;top:-25px}.popupsale__Discount .popupsale__saletext__Discount{position:absolute;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;z-index:2;width:160px;height:89px;bottom:155px;left:69px;text-shadow:1px 1px 0 rgba(0,0,0,.45);color:#ececec;font-size:14px;font-weight:700;line-height:16px;text-align:left;padding-bottom:16px}.popupsale__Discount .popupsale__saletext__Discount span:nth-of-type(1) {text-shadow:2px 1px 0 rgba(23,20,19,.4);color:#ffd513;font-size:72px;font-weight:900;line-height:1;margin-right:7px;position:relative;top:7px}.popupsale__Discount p{line-height:1.6;margin:0 0 10px;font-size:16px}.popupsale__Discount img{vertical-align:bottom}.popupsale__Discount .popupsale__waiting__Discount{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-size:12px}.popupsale__Discount .popupsale__waiting__Discount>div{margin-bottom:5px}.popupsale__Discount .popupsale__waiting__Discount>img{width:36px;height:28px}.popupsale__Discount .popupsale__mobile__Discount{display:none}.popupsale__Discount .fs-36__Discount{font-size:36px;line-height:1.1}.popupsale__Discount .fs-12__Discount{font-size:12px}.popupsale__Discount .c-purple__Discount{color:#e00744;font-size:36px}@media screen and (max-width:850px){.popupsale__Discount{padding:28px 28px 0;display:block;width:100%}.popupsale__Discount .popupsale__saletext__Discount{bottom:28px;padding-bottom:10px;left:50%;z-index:1;font-size:8px;line-height:1.2;width:82px;height:40px;margin-left:-54px}.popupsale__Discount .popupsale__saletext__Discount span:nth-of-type(1) {font-size:36px;top:4px}.popupsale__Discount .popupsale__window__Discount{position:relative;width:100%}.popupsale__Discount .popupsale__window__Discount::before,.popupsale__window__Discount::after{content:'';position:absolute;width:100%;height:100px}.popupsale__Discount .popupsale__window__Discount::after{content:none}.popupsale__Discount .popupsale__content__Discount{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;padding:23px 0 14px;background:none;z-index:1;position:relative}.popupsale__Discount .popupsale__content__Discount:before{content:none}.popupsale__Discount .popupsale__content__left__Discount{width:100%;padding:0 23px;font-size:12px;line-height:18px;margin-bottom:10px;background:#eaeaea;border-radius:0}.popupsale__Discount .popupsale__content__right__Discount{text-align:-webkit-center;padding:0 2px}.popupsale__Discount .popupsale__warning__Discount{padding:3px 5px;letter-spacing:-.04em}.popupsale__Discount .popupsale__input__Discount{padding:14px 1em;margin-bottom:9px}.popupsale__Discount .popupsale__input__Discount:last-of-type{margin-bottom:12px}.popupsale__Discount .popupsale__btn__Discount{font-size:18px;padding:20px 10px}.popupsale__Discount .popupsale__btn__Discount::after{width:34px;height:34px;background-size:cover;top:-13px}.popupsale__Discount .popupsale__form__Discount{width:250px;margin-bottom:16px}.popupsale__Discount .popupsale__waiting__Discount{-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:center;text-align:left;font-size:11px;padding:0 10px}.popupsale__Discount .popupsale__waiting__Discount>img{margin-right:6px}.popupsale__Discount .popupsale__mobile__Discount{display:block;margin:auto;width:100%;height:105px;background:url(https://g.biotrin.ru/img/bg-popup-m.png) no-repeat center bottom}.popupsale__Discount .fs-36__Discount{font-size:24px;line-height:1}.popupsale__Discount form .popupsale__btn__Discount{height:60px;padding:0}.popupsale__Discount form .popupsale__input__Discount{height:50px}}#zzzcpa{bottom:25px;right:10px;position:fixed;z-index:10000;display:none;cursor:pointer}.img-circle{background-color:#29aee3;box-sizing:content-box;-webkit-box-sizing:content-box}.circlephone{box-sizing:content-box;-webkit-box-sizing:content-box;border:2px solid #29aee3;width:200px;height:200px;bottom:-25px;right:10px;position:absolute;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;opacity:.5;-webkit-animation:circle-anim 2.4s infinite ease-in-out!important;-moz-animation:circle-anim 2.4s infinite ease-in-out!important;-ms-animation:circle-anim 2.4s infinite ease-in-out!important;-o-animation:circle-anim 2.4s infinite ease-in-out!important;animation:circle-anim 2.4s infinite ease-in-out!important;-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s}.circle-fill{box-sizing:content-box;-webkit-box-sizing:content-box;background-color:#29aee3;width:150px;height:150px;bottom:0;right:35px;position:absolute;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;border:2px solid transparent;-webkit-animation:circle-fill-anim 2.3s infinite ease-in-out;-moz-animation:circle-fill-anim 2.3s infinite ease-in-out;-ms-animation:circle-fill-anim 2.3s infinite ease-in-out;-o-animation:circle-fill-anim 2.3s infinite ease-in-out;animation:circle-fill-anim 2.3s infinite ease-in-out;-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s}.img-circle{box-sizing:content-box;-webkit-box-sizing:content-box;width:122px;height:122px;bottom:14px;right:49px;position:absolute;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;border:2px solid transparent;opacity:.7}.img-circleblock{box-sizing:content-box;-webkit-box-sizing:content-box;width:122px;height:122px;background-position:center center;background-repeat:no-repeat}.img-circle:hover{opacity:1}@keyframes pulse {
+    0% {
+        transform: scale(0.9);
+        opacity: 1;
+    }
+
+    50% {
+        transform: scale(1);
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(0.9);
+        opacity: 1;
+    }
+}@-webkit-keyframes pulse {
+    0% {
+        -webkit-transform: scale(0.95);
+        opacity: 1;
+    }
+
+    50% {
+        -webkit-transform: scale(1);
+        opacity: 1;
+    }
+
+    100% {
+        -webkit-transform: scale(0.95);
+        opacity: 1;
+    }
+}@keyframes tossing {
+    0% {
+        transform: rotate(-8deg);
+    }
+
+    50% {
+        transform: rotate(8deg);
+    }
+
+    100% {
+        transform: rotate(-8deg);
+    }
+}@-webkit-keyframes tossing {
+    0% {
+        -webkit-transform: rotate(-8deg);
+    }
+
+    50% {
+        -webkit-transform: rotate(8deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(-8deg);
+    }
+}@-moz-keyframes circle-anim {
+    0% {
+        -moz-transform: rotate(0deg) scale(0.5) skew(1deg);
+        opacity: .1;
+        -moz-opacity: .1;
+        -webkit-opacity: .1;
+        -o-opacity: .1;
+    }
+
+    30% {
+        -moz-transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .5;
+        -moz-opacity: .5;
+        -webkit-opacity: .5;
+        -o-opacity: .5;
+    }
+
+    100% {
+        -moz-transform: rotate(0deg) scale(1) skew(1deg);
+        opacity: .6;
+        -moz-opacity: .6;
+        -webkit-opacity: .6;
+        -o-opacity: .1;
+    }
+}@-webkit-keyframes circle-anim {
+    0% {
+        -webkit-transform: rotate(0deg) scale(0.5) skew(1deg);
+        -webkit-opacity: .1;
+    }
+
+    30% {
+        -webkit-transform: rotate(0deg) scale(0.7) skew(1deg);
+        -webkit-opacity: .5;
+    }
+
+    100% {
+        -webkit-transform: rotate(0deg) scale(1) skew(1deg);
+        -webkit-opacity: .1;
+    }
+}@-o-keyframes circle-anim {
+    0% {
+        -o-transform: rotate(0deg) kscale(0.5) skew(1deg);
+        -o-opacity: .1;
+    }
+
+    30% {
+        -o-transform: rotate(0deg) scale(0.7) skew(1deg);
+        -o-opacity: .5;
+    }
+
+    100% {
+        -o-transform: rotate(0deg) scale(1) skew(1deg);
+        -o-opacity: .1;
+    }
+}@keyframes circle-anim {
+    0% {
+        transform: rotate(0deg) scale(0.5) skew(1deg);
+        opacity: .1;
+    }
+
+    30% {
+        transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .5;
+    }
+
+    100% {
+        transform: rotate(0deg) scale(1) skew(1deg);
+        opacity: .1;
+    }
+}@-moz-keyframes circle-fill-anim {
+    0% {
+        -moz-transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .2;
+    }
+
+    50% {
+        -moz-transform: rotate(0deg) -moz-scale(1) skew(1deg);
+        opacity: .2;
+    }
+
+    100% {
+        -moz-transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .2;
+    }
+}@-webkit-keyframes circle-fill-anim {
+    0% {
+        -webkit-transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .2;
+    }
+
+    50% {
+        -webkit-transform: rotate(0deg) scale(1) skew(1deg);
+        opacity: .2;
+    }
+
+    100% {
+        -webkit-transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .2;
+    }
+}@-o-keyframes circle-fill-anim {
+    0% {
+        -o-transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .2;
+    }
+
+    50% {
+        -o-transform: rotate(0deg) scale(1) skew(1deg);
+        opacity: .2;
+    }
+
+    100% {
+        -o-transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .2;
+    }
+}@keyframes circle-fill-anim {
+    0% {
+        transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .2;
+    }
+
+    50% {
+        transform: rotate(0deg) scale(1) skew(1deg);
+        opacity: .2;
+    }
+
+    100% {
+        transform: rotate(0deg) scale(0.7) skew(1deg);
+        opacity: .2;
+    }
+}
